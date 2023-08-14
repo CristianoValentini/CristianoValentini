@@ -7,7 +7,7 @@
 
 - 🔭 Sto lavorando a [Dream 2D](https://github.com/CristianoValentini/2DProjectGame)
 
-- 🌱 Sto imparando **Java Advanced**
+- 🌱 Sto imparando **Rust**
 
 - 👯 Cerco qualcuno con cui esercitarmi su **Java**
 
